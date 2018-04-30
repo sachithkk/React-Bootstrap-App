@@ -1,0 +1,22 @@
+#human, #basic-nav-dropdown{
+    color: #19C22D; 
+}
+
+#human:hover, #basic-nav-dropdown:hover{
+    color:#fff;
+}
+
+.show-grid{
+}
+
+.sidebar{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: #2874A6;
+}
+
+.content{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: #AED6F1
+}
